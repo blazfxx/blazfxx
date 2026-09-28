@@ -6,8 +6,8 @@
 - Building for fun 🎉
 
 I have built multiple projects over the year, one standing out the most:
-https://blazeapi.org
-https://bots.blazeapi.org
+- https://blazeapi.org
+- https://bots.blazeapi.org
 
 
 # GitHub Streak
