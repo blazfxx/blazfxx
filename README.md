@@ -1,7 +1,6 @@
 # blazfoxx here 👋
 
-**Can build anything you want!
-**
+**Can build anything you want!**
 - Located in the United States
 - Still in High School
 - Building for fun 🎉
